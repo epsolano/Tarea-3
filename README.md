@@ -178,16 +178,14 @@
 **![image](https://user-images.githubusercontent.com/116835707/203663882-26c55285-dc65-437e-8d58-22a96b079bf5.png)**
 **![image](https://user-images.githubusercontent.com/116835707/203663922-acba3019-e2eb-4f76-a00e-fcc266a64834.png)**
 
+**SECCIÓN 6-3**
 
+**Ley de las corrientes de Kirchhoff**
 
 **![image](https://user-images.githubusercontent.com/116835707/203664110-702f5f66-e2a0-490f-8911-5c18c929d09a.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203664141-1c403971-9ae4-44cd-9dcc-2afc7d39f30b.png)**
 
-
-**SECCIÓN 6-3**
-
-**Ley de las corrientes de Kirchhoff**
 
 **SECCIÓN 6-4**
 
