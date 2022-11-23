@@ -27,63 +27,102 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
-**CAPÍTULO 3**
+**CAPÍTULO 5**
 
-**SECCIÓN3-1**
+**SECCIÓN 5-1**
 
-**La relacion de corriente, voltaje y resistencia**
-
-
-
-**SECCIÓN 3-2**
-
-**Cálculo de la corriente**
+**Resistores en serie**
 
 
 
-**SECCIÓN 3-3**
+**SECCIÓN 5-2**
 
-**Cálculo de voltaje**
-
-
-
-**SECCIÓN 3-4**
-
-**Cálculo de resistencia**
+**Corriente en un circuito en serie**
 
 
 
+**SECCIÓN 5-3**
 
-**SECCIÓN 3-5**
-
-**Introducción a la localización de fallas**
-
+**Resiatencia total en serie**
 
 
-**CAPÍTULO 4**
 
-**SECCIÓN 4-1**
+**SECCIÓN 5-4**
 
-**Energía y potencia**
-
-
-**SECCIÓN 4-2**
-
-**Potencia de un circuito eléctrico**
+**Aplicación de la ley de Ohm**
 
 
-**SECCIÓN 4-3**
 
-**Clasificaciones de potencia en resistores**
 
-**SECCIÓN 4-4**
+**SECCIÓN 5-5**
 
-**Conversión de energía y caída de voltaje en una resistencia**
+**Fuentes de voltaje en serie**
 
-**SECCIÓN 4-5**
 
-**Fuentes de potencia**
+**SECCIÓN 5-6**
 
+**Ley del voltaje de Kirchhoff**
+
+**SECCIÓN 5-7**
+
+**Divisores de voltaje**
+
+**SECCIÓN 5-8**
+
+**Potencia en circuitos en serie**
+
+**SECCIÓN 5-9**
+
+**Mediciones de voltaje**
+
+**SECCIÓN 5-10**
+
+**Localización de fallas**
+
+**Localización y análisis de fallas con Multisim**
+
+
+**CAPÍTULO 6**
+
+**SECCIÓN 6-1**
+
+**Resistores en paralelo**
+
+
+**SECCIÓN 6-2**
+
+**Voltaje en un circuito en paralelo**
+
+
+**SECCIÓN 6-3**
+
+**Ley de las corrientes de Kirchhoff**
+
+**SECCIÓN 6-4**
+
+**Resistencia total en paralelo**
+
+**SECCIÓN 6-5**
+
+**Aplicacion de la ley de Ohm**
+
+**SECCIÓN 6-6**
+
+**Fuentes de corriente en paralelo**
+
+**SECCIÓN 6-7**
+
+**Divisores de corriente**
+
+**SECCIÓN 6-8**
+
+**Potencia en circuitos en paralelo**
+
+**SECCIÓN 6-10**
+
+**Localización de fallas**
+
+**Localización y analisis de de fallas con Multisim**
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
