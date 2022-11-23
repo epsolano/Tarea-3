@@ -186,30 +186,79 @@
 
 **![image](https://user-images.githubusercontent.com/116835707/203664141-1c403971-9ae4-44cd-9dcc-2afc7d39f30b.png)**
 
+**![image](https://user-images.githubusercontent.com/116835707/203664659-167e5c52-89a8-475e-b32e-ac292fc9e43d.png)**
 
 **SECCIÓN 6-4**
 
 **Resistencia total en paralelo**
 
+**![image](https://user-images.githubusercontent.com/116835707/203664704-dc2b5189-38cf-497b-b612-7de8170c1e0c.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/203664753-2b6c00e3-61b2-4d37-8aa8-d0a54e3492f7.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/203664786-e1018b93-469f-4af9-81fa-4a633bdd6572.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/203664876-38bdc2e3-24be-40e8-acff-6d6a55e84ccc.png)**
+
 **SECCIÓN 6-5**
 
 **Aplicacion de la ley de Ohm**
+
+**![image](https://user-images.githubusercontent.com/116835707/203665004-f1862624-0cc5-478a-8b48-a625a2db61e0.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/203665042-e413b242-c55c-4049-900b-77f5e3fff1b1.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/203665068-a2aba5d0-dd22-4da4-a049-32d7f90db54e.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/203665102-af0ff8a4-fdf0-4e17-9fe3-e0221c790588.png)**
+
 
 **SECCIÓN 6-6**
 
 **Fuentes de corriente en paralelo**
 
+**![image](https://user-images.githubusercontent.com/116835707/203665160-d2332644-2b34-40fb-af37-10bd393ec556.png)**
+
+
 **SECCIÓN 6-7**
 
 **Divisores de corriente**
+
+**![image](https://user-images.githubusercontent.com/116835707/203665260-d91ec525-bdb2-4e9c-ad10-677a1f91d66f.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/203665296-517c26fa-8f92-4f2f-bfda-3482dff41098.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/203665325-702e4566-58cf-4bb2-ac98-11ab5f7ba50e.png)**
 
 **SECCIÓN 6-8**
 
 **Potencia en circuitos en paralelo**
 
+**![image](https://user-images.githubusercontent.com/116835707/203665374-94769627-67e2-48ad-9f72-5c43752c4168.png)**
+**![image](https://user-images.githubusercontent.com/116835707/203665457-e557336b-6734-4656-9803-9fc4883e385d.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/203665513-73b7215d-6d65-4780-807b-0dfdb70c9ab2.png)**
+
 **SECCIÓN 6-10**
 
 **Localización de fallas**
+
+**![image](https://user-images.githubusercontent.com/116835707/203665554-79ea40be-4cf8-4892-bf8a-ac840c10fc1f.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/203665596-1d4f3afd-4839-468d-9455-ac867d15a917.png)**
+**![image](https://user-images.githubusercontent.com/116835707/203665634-4b084cac-dd3e-4f58-8c6d-90ecae15587a.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/203665712-310520ba-e04b-4746-bc37-7ef79af87a2c.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/203665753-60be6b8f-cc66-4ede-b873-43a900541880.png)**
+
+
+
+
+
+
+
+
 
 **Localización y analisis de de fallas con Multisim**
 
