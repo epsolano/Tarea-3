@@ -143,21 +143,44 @@
 
 **Localización de fallas**
 
+**![image](https://user-images.githubusercontent.com/116835707/203663241-8765620f-6735-4257-ad74-76eabb1832f9.png)**
+**![image](https://user-images.githubusercontent.com/116835707/203663299-9d46a9d8-947c-4cf4-972c-10e6e3d01d2e.png)**
 
+**![image](https://user-images.githubusercontent.com/116835707/203663344-03283add-dffe-4f34-9a72-8daa658b3462.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/203663409-3e26bce6-2da0-4b27-9a23-c05234c177f2.png)**
 
 **Localización y análisis de fallas con Multisim**
 
+**![image](https://user-images.githubusercontent.com/116835707/203663444-caf2883e-3b96-4424-b78a-00e50401c20c.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/203663475-f969785d-e7fa-4b3b-9e6a-e2de3e803872.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/203663510-6bbbd595-da1c-4ba5-afea-248899b7cff3.png)**
 
 **CAPÍTULO 6**
 
 **SECCIÓN 6-1**
 
+**![image](https://user-images.githubusercontent.com/116835707/203663630-a4013687-a5d7-4fde-835a-937256b8b4fa.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/203663689-979540fe-3708-4415-8d07-49258a191d5f.png)**
+**![image](https://user-images.githubusercontent.com/116835707/203663734-50ad38a3-e872-433e-a7c7-541f9221ee1f.png)**
+
 **Resistores en paralelo**
 
+**![image](https://user-images.githubusercontent.com/116835707/203663827-6dc5271e-372c-41ad-a469-4bb1de0a05c0.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/203663882-26c55285-dc65-437e-8d58-22a96b079bf5.png)**
+**![image](https://user-images.githubusercontent.com/116835707/203663922-acba3019-e2eb-4f76-a00e-fcc266a64834.png)**
 
 **SECCIÓN 6-2**
 
 **Voltaje en un circuito en paralelo**
+
+**![image](https://user-images.githubusercontent.com/116835707/203664110-702f5f66-e2a0-490f-8911-5c18c929d09a.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/203664141-1c403971-9ae4-44cd-9dcc-2afc7d39f30b.png)**
 
 
 **SECCIÓN 6-3**
