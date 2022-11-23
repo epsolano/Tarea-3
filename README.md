@@ -162,21 +162,23 @@
 
 **SECCIÓN 6-1**
 
+**Resistores en paralelo**
+
 **![image](https://user-images.githubusercontent.com/116835707/203663630-a4013687-a5d7-4fde-835a-937256b8b4fa.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203663689-979540fe-3708-4415-8d07-49258a191d5f.png)**
 **![image](https://user-images.githubusercontent.com/116835707/203663734-50ad38a3-e872-433e-a7c7-541f9221ee1f.png)**
 
-**Resistores en paralelo**
+**SECCIÓN 6-2**
+
+**Voltaje en un circuito en paralelo**
 
 **![image](https://user-images.githubusercontent.com/116835707/203663827-6dc5271e-372c-41ad-a469-4bb1de0a05c0.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203663882-26c55285-dc65-437e-8d58-22a96b079bf5.png)**
 **![image](https://user-images.githubusercontent.com/116835707/203663922-acba3019-e2eb-4f76-a00e-fcc266a64834.png)**
 
-**SECCIÓN 6-2**
 
-**Voltaje en un circuito en paralelo**
 
 **![image](https://user-images.githubusercontent.com/116835707/203664110-702f5f66-e2a0-490f-8911-5c18c929d09a.png)**
 
