@@ -37,10 +37,12 @@
 
 
 **![image](https://user-images.githubusercontent.com/116835707/203652743-e16856aa-830a-4a77-8086-6c2c960a2b08.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/203652795-79308e9d-147a-4a59-a3a7-d7e31c76ad44.png)**
 
 
 **![image](https://user-images.githubusercontent.com/116835707/203652865-14e1c2eb-0aec-4b1b-a301-d69bf5376197.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/203652924-9d4339d8-605a-45bc-826a-65d097b8ce7d.png)**
 
 
@@ -49,6 +51,7 @@
 **Corriente en un circuito en serie**
 
 **![image](https://user-images.githubusercontent.com/116835707/203653032-ec3a8c2c-0931-46a9-b8b4-61e1ea15a572.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/203653096-c3033d77-d6e6-4eae-92ed-2c23bd0f9b6c.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203653212-16bcad1c-7ebb-4738-b87d-7599479ba5fc.png)**
@@ -74,9 +77,11 @@
 **![image](https://user-images.githubusercontent.com/116835707/203654356-25018084-e5fb-4647-97f7-2d14021cab74.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203654444-95ff107d-dbca-434d-b319-5544ec666872.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/203654507-2587b923-88d2-4883-b645-6d4973f1945d.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203654571-614a00d9-f03b-4854-bf57-3ed588a3234c.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/203654662-0f5ab02e-e6d8-4fa5-9e1d-0b73656fb82c.png)**
 
 
@@ -96,9 +101,11 @@
 **![image](https://user-images.githubusercontent.com/116835707/203655484-8ede1007-55e1-4163-a4fb-0183b594e1a3.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203655539-4b594486-cfa1-4090-8743-9e5633fc8ae0.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/203655584-b6bf9d2e-7043-41b3-b0d8-b5b0ad459dc1.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203655640-ae5ef6d7-ab58-472c-a7ae-2e27e46f296b.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/203655682-ddb73c49-98ec-462d-bade-10960c989fe4.png)**
 
 
@@ -109,9 +116,11 @@
 **![image](https://user-images.githubusercontent.com/116835707/203655834-e497691f-99ec-4c54-89b5-ef721c85750e.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203655884-54b160b9-2c07-4792-9c50-3707423fd6da.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/203655970-5ce22d49-d863-447c-bdaf-c2e747ab69ed.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203656010-944b9c3b-30f3-4445-83ff-d4031304eab4.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/203656190-043bcf86-f85d-4a50-89a4-8fd1a2799f74.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203656315-eedcd3a4-12bb-46f5-ba52-e632b933fe2f.png)**
@@ -127,6 +136,7 @@
 **![image](https://user-images.githubusercontent.com/116835707/203656446-f868cea3-6b59-4377-a05a-54457108d1d1.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203656505-1cd3487c-f313-469f-bc6e-37082f7ec2f9.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/203656550-3a49f894-3282-45ec-8b16-d3277419ad0d.png)**
 
 **SECCIÓN 5-9**
@@ -134,9 +144,11 @@
 **Mediciones de voltaje**
 
 **![image](https://user-images.githubusercontent.com/116835707/203656643-528ef6e1-289b-4151-a724-d7cb2bfd3dcc.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/203656675-1f027414-33d8-4853-acde-0f033fd6a4ab.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203656737-f11bcdf8-ac8d-4fb7-9a49-d1f87db609cd.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/203656790-5be24c66-7e0e-4a05-b367-b3d3a33571cb.png)**
 
 **SECCIÓN 5-10**
@@ -144,6 +156,7 @@
 **Localización de fallas**
 
 **![image](https://user-images.githubusercontent.com/116835707/203663241-8765620f-6735-4257-ad74-76eabb1832f9.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/203663299-9d46a9d8-947c-4cf4-972c-10e6e3d01d2e.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203663344-03283add-dffe-4f34-9a72-8daa658b3462.png)**
@@ -167,6 +180,7 @@
 **![image](https://user-images.githubusercontent.com/116835707/203663630-a4013687-a5d7-4fde-835a-937256b8b4fa.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203663689-979540fe-3708-4415-8d07-49258a191d5f.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/203663734-50ad38a3-e872-433e-a7c7-541f9221ee1f.png)**
 
 **SECCIÓN 6-2**
@@ -176,6 +190,7 @@
 **![image](https://user-images.githubusercontent.com/116835707/203663827-6dc5271e-372c-41ad-a469-4bb1de0a05c0.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203663882-26c55285-dc65-437e-8d58-22a96b079bf5.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/203663922-acba3019-e2eb-4f76-a00e-fcc266a64834.png)**
 
 **SECCIÓN 6-3**
@@ -235,6 +250,7 @@
 **Potencia en circuitos en paralelo**
 
 **![image](https://user-images.githubusercontent.com/116835707/203665374-94769627-67e2-48ad-9f72-5c43752c4168.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/203665457-e557336b-6734-4656-9803-9fc4883e385d.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203665513-73b7215d-6d65-4780-807b-0dfdb70c9ab2.png)**
@@ -246,22 +262,22 @@
 **![image](https://user-images.githubusercontent.com/116835707/203665554-79ea40be-4cf8-4892-bf8a-ac840c10fc1f.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203665596-1d4f3afd-4839-468d-9455-ac867d15a917.png)**
+
 **![image](https://user-images.githubusercontent.com/116835707/203665634-4b084cac-dd3e-4f58-8c6d-90ecae15587a.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203665712-310520ba-e04b-4746-bc37-7ef79af87a2c.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203665753-60be6b8f-cc66-4ede-b873-43a900541880.png)**
 
+**![image](https://user-images.githubusercontent.com/116835707/203666001-c520c03d-57f3-4481-be10-c4b01c17a0e6.png)**
 
-
-
-
-
-
-
+**![image](https://user-images.githubusercontent.com/116835707/203666066-f6935d6d-26d3-411b-8e33-0a527ae39eac.png)**
 
 **Localización y analisis de de fallas con Multisim**
 
+**![image](https://user-images.githubusercontent.com/116835707/203666115-c5093330-a200-4086-ae2c-54545722fc42.png)**
+
+**![image](https://user-images.githubusercontent.com/116835707/203666158-2ec0db36-2e82-4c11-97ac-f2ad81bb9b0b.png)**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **4. VIDEO**
