@@ -19,7 +19,7 @@ Identificar los componentes de un circuito resistivo en serie y en paralelo, tam
 
 **1.2  OBJETIVOS ESPECIFICOS**
 
-* Diferenciar un circuito resistivo en serie y en paralelo.
+* Identificar un circuito resistivo en serie y en paralelo.
 * Determinar la corriente, resistencia, ley de voltaje de kirchhoff, ley de corriente de Kirchhoff de un circuito resistivo en serie y de un circuito resistivo en paralelo
 * Localizar fallas en circuitos en serie y localizar fallas en circuitos en paralelo.
 
