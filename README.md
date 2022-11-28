@@ -23,6 +23,23 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **2. MARCO TEORICO**
 
+![image](https://user-images.githubusercontent.com/116835707/204192167-0ffded0e-e95c-4808-99d5-5d7bdb9f8a26.png)
+
+![image](https://user-images.githubusercontent.com/116835707/204192218-3685e59c-d2fb-40b4-b113-b545bd8f60d1.png)
+
+![image](https://user-images.githubusercontent.com/116835707/204192488-91d7536e-b83c-42ce-bb8b-18d0c3b11b3e.png)
+
+![image](https://user-images.githubusercontent.com/116835707/204193156-383b2d62-9d40-4ba9-bb22-25d4009ce429.png)
+
+![image](https://user-images.githubusercontent.com/116835707/204193329-4ac0738b-85bb-41c2-827d-6ac26cccc619.png)
+
+![image](https://user-images.githubusercontent.com/116835707/204193429-75739d87-ac56-42eb-8a51-e56158a82365.png)
+
+![image](https://user-images.githubusercontent.com/116835707/204193627-092018a9-73a6-4f00-b8a7-4c7303ee9412.png)
+
+![image](https://user-images.githubusercontent.com/116835707/204193699-d3bd685f-e306-4a17-9661-dcf53437e8c7.png)
+
+![image](https://user-images.githubusercontent.com/116835707/204193846-cbefba22-e14d-4a35-a0f9-cb370d402129.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
