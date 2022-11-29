@@ -89,11 +89,19 @@ Identificar los componentes de un circuito resistivo en serie y en paralelo, tam
 
 **![image](https://user-images.githubusercontent.com/116835707/203653327-5401022e-ecd2-4a5f-b0aa-26ef642c227d.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/204408125-bd50ff3e-9f71-4a8b-a206-f383d89bbed7.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/203653409-aefe6e8a-152c-4173-927b-60cce5fd4de4.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/204408185-8c1e7d28-0ad0-4b9c-86f1-325cc7d77338.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/203653502-a99a1f4f-bde7-47f2-8b8e-241c4ba2713b.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/204408249-ac782add-1d12-4059-a31e-d5b2b8c755fc.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/203653584-f2ac9377-6de6-4e8c-b005-9ae4dbb540bb.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/204408333-80c63f5b-d50b-4667-92b8-2a9513d5019f.png)
 
 **SECCIÓN 5-4**
 
@@ -101,11 +109,7 @@ Identificar los componentes de un circuito resistivo en serie y en paralelo, tam
 
 **![image](https://user-images.githubusercontent.com/116835707/203653686-52f8874d-f68d-4a3c-926f-37ea91455f5d.png)**
 
-![image](https://user-images.githubusercontent.com/116835707/204407838-e53da134-27cd-4650-9cd2-3dc7627a4057.png)
-
 **![image](https://user-images.githubusercontent.com/116835707/203654356-25018084-e5fb-4647-97f7-2d14021cab74.png)**
-
-![image](https://user-images.githubusercontent.com/116835707/204407885-a45e9fa3-9afc-449e-bde6-d83ed3a6f19b.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/203654444-95ff107d-dbca-434d-b319-5544ec666872.png)**
 
