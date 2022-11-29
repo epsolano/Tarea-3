@@ -109,16 +109,23 @@ Identificar los componentes de un circuito resistivo en serie y en paralelo, tam
 
 **![image](https://user-images.githubusercontent.com/116835707/203653686-52f8874d-f68d-4a3c-926f-37ea91455f5d.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/204408462-46818ecd-e92d-4af3-9ed7-9dd287d010ac.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/203654356-25018084-e5fb-4647-97f7-2d14021cab74.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/204408531-6f96bcb4-270e-471a-9545-fbdbc87ce4fa.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/203654444-95ff107d-dbca-434d-b319-5544ec666872.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203654507-2587b923-88d2-4883-b645-6d4973f1945d.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/204408636-5f785664-7d84-484e-bd50-9c768a4614da.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/203654571-614a00d9-f03b-4854-bf57-3ed588a3234c.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203654662-0f5ab02e-e6d8-4fa5-9e1d-0b73656fb82c.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/204411337-ab86a6c3-79b9-464b-a715-a9532364c4f0.png)
 
 **SECCIÓN 5-5**
 
@@ -126,8 +133,11 @@ Identificar los componentes de un circuito resistivo en serie y en paralelo, tam
 
 **![image](https://user-images.githubusercontent.com/116835707/203654756-a8acb5db-120f-4a3d-829d-7a1b9752fa65.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/204411395-5d74b965-f5ce-41b7-aace-d59622509449.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/203654801-cbf4b755-022e-4918-bf8d-c6a9f5fb8683.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/204411471-922ceb6c-5f00-4eae-97b7-bc73c0f7ae06.png)
 
 **SECCIÓN 5-6**
 
@@ -135,11 +145,17 @@ Identificar los componentes de un circuito resistivo en serie y en paralelo, tam
 
 **![image](https://user-images.githubusercontent.com/116835707/203655484-8ede1007-55e1-4163-a4fb-0183b594e1a3.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/204411626-68b40c1b-54e1-4695-ab6e-c7ba8b17fdf6.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/203655539-4b594486-cfa1-4090-8743-9e5633fc8ae0.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/204411695-003676cd-1506-4dfb-84a5-c96b451e7ab3.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/203655584-b6bf9d2e-7043-41b3-b0d8-b5b0ad459dc1.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203655640-ae5ef6d7-ab58-472c-a7ae-2e27e46f296b.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/204411904-fc5a0c97-27fb-4e6f-979f-a514bb4224ba.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/203655682-ddb73c49-98ec-462d-bade-10960c989fe4.png)**
 
