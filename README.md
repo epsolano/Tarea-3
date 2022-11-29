@@ -55,11 +55,13 @@ Identificar los componentes de un circuito resistivo en serie y en paralelo, tam
 
 **![image](https://user-images.githubusercontent.com/116835707/203652689-877f1edb-2f95-4228-a5da-0eaf88ce7630.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/204406593-4bbd3f81-cfaa-4c3a-812b-cc87638eb1c4.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/203652743-e16856aa-830a-4a77-8086-6c2c960a2b08.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203652795-79308e9d-147a-4a59-a3a7-d7e31c76ad44.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/204406634-62bd1c54-cfdd-4c5c-8fbc-04a5679f1283.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/203652865-14e1c2eb-0aec-4b1b-a301-d69bf5376197.png)**
 
