@@ -421,12 +421,9 @@ Identificar los componentes de un circuito resistivo en serie y en paralelo, tam
 **6. CONCLUSIONES**
 * Un circuito en serie tiene la corriente constante, además proporciona sólo una trayectoria para el paso de la corriente entre dos puntos.
 * Un circuito en paralelo proporciona más de una trayectoria para la corriente.
-* En circuitos paralelos se aplica la ley de corrientes de kirchhoff,la cual nos dice que la *suma algebraica de todas las corrientes que entran y salen de un nodo es igual a cero.*
-* 
-*
-*
-*
-
+* En circuitos paralelos se aplica la ley de corrientes de kirchhoff,la cual nos dice que la *"suma algebraica de todas las corrientes que entran y salen de un nodo es igual a cero".*
+* En un circuito en serie se aplica la ley de voltaje de Kircchoff, la cual nos dice que la *"La suma algebraica de todos los voltajes (tanto de fuente como de caídas) localizados en una trayectoria cerrada única es igual a cero.
+* En circuitos paralelos y en serie , se puede utilizar la ley de Ohm para calcular resistencia, voltaje y corriente, además en ambos tipos de circuitos se puede calcular la potecia.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **7. BIBLIOGRAFÍA**
