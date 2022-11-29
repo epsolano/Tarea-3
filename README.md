@@ -67,6 +67,7 @@ Identificar los componentes de un circuito resistivo en serie y en paralelo, tam
 
 **![image](https://user-images.githubusercontent.com/116835707/203652924-9d4339d8-605a-45bc-826a-65d097b8ce7d.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/204406792-e0fbfd62-e69e-4488-aaf7-90609b6bad29.png)
 
 **SECCIÓN 5-2**
 
@@ -95,6 +96,7 @@ Identificar los componentes de un circuito resistivo en serie y en paralelo, tam
 **Aplicación de la ley de Ohm**
 
 **![image](https://user-images.githubusercontent.com/116835707/203653686-52f8874d-f68d-4a3c-926f-37ea91455f5d.png)**
+
 
 **![image](https://user-images.githubusercontent.com/116835707/203654356-25018084-e5fb-4647-97f7-2d14021cab74.png)**
 
