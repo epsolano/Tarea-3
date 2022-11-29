@@ -157,27 +157,33 @@ Identificar los componentes de un circuito resistivo en serie y en paralelo, tam
 
 ![image](https://user-images.githubusercontent.com/116835707/204411904-fc5a0c97-27fb-4e6f-979f-a514bb4224ba.png)
 
-**![image](https://user-images.githubusercontent.com/116835707/203655682-ddb73c49-98ec-462d-bade-10960c989fe4.png)**
-
-
 **SECCIÓN 5-7**
 
 **Divisores de voltaje**
 
 **![image](https://user-images.githubusercontent.com/116835707/203655834-e497691f-99ec-4c54-89b5-ef721c85750e.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/204412180-5afdd739-cc7c-4d77-adb4-ecfd3ba18085.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/203655884-54b160b9-2c07-4792-9c50-3707423fd6da.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203655970-5ce22d49-d863-447c-bdaf-c2e747ab69ed.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/204412263-5e12d646-8fa0-4c57-b690-77eaa2b8983a.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/203656010-944b9c3b-30f3-4445-83ff-d4031304eab4.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203656190-043bcf86-f85d-4a50-89a4-8fd1a2799f74.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/204412410-6959b2fb-bbec-4a97-8a8b-a1ee3f4062a7.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/203656315-eedcd3a4-12bb-46f5-ba52-e632b933fe2f.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/204412508-5b910665-cd44-4757-8659-73826772fafe.png)
 
 **![image](https://user-images.githubusercontent.com/116835707/203656380-94649fd3-175f-45e5-8696-39b51a6b82cb.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/204412547-faf6526b-dcf3-49b1-a478-6f8342aa0048.png)
 
 **SECCIÓN 5-8**
 
@@ -186,9 +192,13 @@ Identificar los componentes de un circuito resistivo en serie y en paralelo, tam
 
 **![image](https://user-images.githubusercontent.com/116835707/203656446-f868cea3-6b59-4377-a05a-54457108d1d1.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/204412679-836611a8-391b-40e8-b177-ff0b1566a3d1.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/203656505-1cd3487c-f313-469f-bc6e-37082f7ec2f9.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203656550-3a49f894-3282-45ec-8b16-d3277419ad0d.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/204412721-16980f93-a197-431e-a8e7-ab2d414be807.png)
 
 **SECCIÓN 5-9**
 
@@ -198,9 +208,13 @@ Identificar los componentes de un circuito resistivo en serie y en paralelo, tam
 
 **![image](https://user-images.githubusercontent.com/116835707/203656675-1f027414-33d8-4853-acde-0f033fd6a4ab.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/204412878-5708c8e9-f24c-42ec-8a43-f72336ee104f.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/203656737-f11bcdf8-ac8d-4fb7-9a49-d1f87db609cd.png)**
 
 **![image](https://user-images.githubusercontent.com/116835707/203656790-5be24c66-7e0e-4a05-b367-b3d3a33571cb.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/204412941-d6960983-6ae9-45e9-a1f1-31dd49551a44.png)
 
 **SECCIÓN 5-10**
 
@@ -210,17 +224,29 @@ Identificar los componentes de un circuito resistivo en serie y en paralelo, tam
 
 **![image](https://user-images.githubusercontent.com/116835707/203663299-9d46a9d8-947c-4cf4-972c-10e6e3d01d2e.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/204413659-b1e108a5-3ced-4f36-bc36-1ddf9d7c475c.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/203663344-03283add-dffe-4f34-9a72-8daa658b3462.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/204413753-7f56d2ce-b3c6-4d82-9e6a-db270c4250d2.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/203663409-3e26bce6-2da0-4b27-9a23-c05234c177f2.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/204413789-2285cb14-9be6-4cda-ba19-cd167566cf71.png)
 
 **Localización y análisis de fallas con Multisim**
 
 **![image](https://user-images.githubusercontent.com/116835707/203663444-caf2883e-3b96-4424-b78a-00e50401c20c.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/204413817-bb805c84-d201-445d-8bd5-e74767a070cc.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/203663475-f969785d-e7fa-4b3b-9e6a-e2de3e803872.png)**
 
+![image](https://user-images.githubusercontent.com/116835707/204413846-ef471227-bda7-46ab-86c0-e83b98a907bc.png)
+
 **![image](https://user-images.githubusercontent.com/116835707/203663510-6bbbd595-da1c-4ba5-afea-248899b7cff3.png)**
+
+![image](https://user-images.githubusercontent.com/116835707/204413880-18b50ed6-7927-4254-88ca-2b60a434908e.png)
 
 **CAPÍTULO 6**
 
