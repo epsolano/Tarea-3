@@ -45,6 +45,11 @@ Identificar los componentes de un circuito resistivo en serie y en paralelo, tam
 ![image](https://user-images.githubusercontent.com/116835707/204193846-cbefba22-e14d-4a35-a0f9-cb370d402129.png)
 
 
+![image](https://user-images.githubusercontent.com/116835707/204452150-6a49c13c-7791-4b3f-9fad-61ed58684283.png)
+
+![image](https://user-images.githubusercontent.com/116835707/204452233-028e5ee9-1481-45bb-8a0b-43baf12945ee.png)
+
+![image](https://user-images.githubusercontent.com/116835707/204452308-8ac71d77-ae13-4230-a0fe-8bdb62d758d5.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
