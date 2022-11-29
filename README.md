@@ -44,6 +44,8 @@ Identificar los componentes de un circuito resistivo en serie y en paralelo, tam
 
 ![image](https://user-images.githubusercontent.com/116835707/204193846-cbefba22-e14d-4a35-a0f9-cb370d402129.png)
 
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
@@ -417,7 +419,13 @@ Identificar los componentes de un circuito resistivo en serie y en paralelo, tam
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **6. CONCLUSIONES**
-
+* Un circuito en serie tiene la corriente constante, además proporciona sólo una trayectoria para el paso de la corriente entre dos puntos.
+* Un circuito en paralelo proporciona más de una trayectoria para la corriente.
+* En circuitos paralelos se aplica la ley de corrientes de kirchhoff,la cual nos dice que la *suma algebraica de todas las corrientes que entran y salen de un nodo es igual a cero.*
+* 
+*
+*
+*
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
